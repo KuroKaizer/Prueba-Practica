@@ -2,17 +2,17 @@
 
 Pruba Práctica desarrollada usando Api Rest bajo el Framework de FastApi 
 Instalación
----------
+
 Descargar e instalar Python 10.9.6 [Link](https://www.python.org/downloads/release/python-3109/)
 
-Descargar e instalar MongoDB[Link](https://www.mongodb.com/try/download/community)
-####Instalación de paquetes y librerias:
+Descargar e instalar MongoDB [Link](https://www.mongodb.com/try/download/community)
 
-#####-Primera manera: Instalar los paquetes Python anotados en el archivo requirements.txt
+Instalación de paquetes y librerias:
+-Primera manera: Instalar los paquetes Python anotados en el archivo requirements.txt
 Desde la ventana de cmd
 `pip install -r requirements.txt`
 
-#####-Segunda manera: Instalar los paquetes Python por separado 
+-Segunda manera: Instalar los paquetes Python por separado 
 Framework FastApi
 `pip install fastapi`
 
@@ -23,11 +23,8 @@ Para conectar MongoDB con la Api
 `pip install pymongo`
 
 
-###Recursos
+Recursos
 
-#####FastApi Tutorial [Links](https://fastapi.tiangolo.com/tutorial/)
-
-
+FastApi Tutorial [Links](https://fastapi.tiangolo.com/tutorial/)
 
 
-###End
