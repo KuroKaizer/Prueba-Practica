@@ -36,7 +36,6 @@ def consultar_todo():
 def consultar_grimorio(id:str):
     return userEntity(conn.local.user.find_one_and_delete({"id":id}))
     
-
 #Eliminar solicitud de ingreso
 @estudiante.delete("/estudiante/{id}")
 def eliminar_solicitud(id: str):
