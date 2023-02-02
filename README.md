@@ -12,16 +12,20 @@ Instalación de paquetes y librerias:
 
 -Primera manera: Instalar los paquetes Python anotados en el archivo requirements.txt
 Desde la ventana de cmd
+
 `pip install -r requirements.txt`
 
 -Segunda manera: Instalar los paquetes Python por separado 
 Framework FastApi
+
 `pip install fastapi`
 
 Para que arranque el servidor de la Api
+
 `pip install uvicorn`
 
 Para conectar MongoDB con la Api
+
 `pip install pymongo`
 
 
