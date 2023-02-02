@@ -1,6 +1,7 @@
 # IA Interactive | Prueba Práctica | Python Developer Manuel Domínguez
 
 Pruba Práctica desarrollada usando Api Rest bajo el Framework de FastApi 
+
 Instalación
 
 Descargar e instalar Python 10.9.6 [Link](https://www.python.org/downloads/release/python-3109/)
