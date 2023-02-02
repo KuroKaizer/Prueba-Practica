@@ -9,6 +9,7 @@ Descargar e instalar Python 10.9.6 [Link](https://www.python.org/downloads/relea
 Descargar e instalar MongoDB [Link](https://www.mongodb.com/try/download/community)
 
 Instalación de paquetes y librerias:
+
 -Primera manera: Instalar los paquetes Python anotados en el archivo requirements.txt
 Desde la ventana de cmd
 `pip install -r requirements.txt`
