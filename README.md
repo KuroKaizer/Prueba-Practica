@@ -16,6 +16,7 @@ Desde la ventana de cmd
 `pip install -r requirements.txt`
 
 -Segunda manera: Instalar los paquetes Python por separado 
+
 Framework FastApi
 
 `pip install fastapi`
